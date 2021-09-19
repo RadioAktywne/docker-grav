@@ -1,3 +1,7 @@
+# Dockerfile dla Grava RA
+
+Jest to implementacja gotowego dockerfile'a z bardzo drobnymi zmianami. Poniżje REDAME z instniejącego repo.
+
 # Official Docker Image for Grav
 
 This currently is pretty minimal and uses:
